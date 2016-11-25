@@ -10,9 +10,9 @@
 
 /************************* Adafruit.io Setup *********************************/
 #define AIO_SERVER      "io.adafruit.com"
-#define AIO_SERVERPORT  1883                   // use 8883 for SSL
+#define AIO_SERVERPORT  1883 // use 8883 for SSL
 #define AIO_USERNAME    "io.adafruit_USERNAME"
-#define AIO_KEY         "KEY"
+#define AIO_KEY         "io.adafruit_KEY"
 
 /************************* Hardware Configs *********************************/
 #define DOOR 13          // door gpio pin
