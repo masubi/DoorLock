@@ -8,8 +8,8 @@ services can be alerted(e.g. IFTTT can send an alert or text to smart phone).
 As an added bonus it also can detect if the battery runs low and also send a
 corresponding alert.  
 
-## Differences from tutorials
-This work is based heavily on the adafruit docs shown in references section
+## Differences from adafruit docs
+This project is based heavily on the adafruit docs shown in references section
 but with some significant updates:
 * updates the MQTT connection
 * doesn't use EEPROM, so won't wear this out
@@ -33,9 +33,8 @@ but with some significant updates:
 * GND to one side of the 220kΩ resistor
 * VBat to one side of the 1MΩ resistor
 * Pin A to the opposite side of  the 1MΩ resistor and 220kΩ resistor
-[diagram src](https://learn.adafruit.com/using-ifttt-with-adafruit-io/wiring#battery-tracking)
-
-![wiring_diagram](https://github.com/masubi/DoorLock/blob/master/images/wiring_diagram.png)
+* wiring example:  ![wiring_diagram](https://github.com/masubi/DoorLock/blob/master/images/wiring_diagram.png)
+* [diagram src](https://learn.adafruit.com/using-ifttt-with-adafruit-io/wiring#battery-tracking)
 
 ## Service Integration
 * adafruit.io
