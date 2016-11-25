@@ -34,7 +34,7 @@ but with some significant updates:
 * VBat to one side of the 1MΩ resistor
 * Pin A to the opposite side of  the 1MΩ resistor and 220kΩ resistor
 [diagram src]  (https://learn.adafruit.com/using-ifttt-with-adafruit-io/wiring#battery-tracking)
-![wiring_diagram](images/wiring_diagram.png")
+![wiring_diagram](images/wiring_diagram.png)
 
 ## Service Integration
 * adafruit.io
