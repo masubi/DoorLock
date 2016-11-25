@@ -33,8 +33,9 @@ but with some significant updates:
 * GND to one side of the 220kΩ resistor
 * VBat to one side of the 1MΩ resistor
 * Pin A to the opposite side of  the 1MΩ resistor and 220kΩ resistor
-[diagram src]  (https://learn.adafruit.com/using-ifttt-with-adafruit-io/wiring#battery-tracking)
-![wiring_diagram](images/wiring_diagram.png)
+[diagram src](https://learn.adafruit.com/using-ifttt-with-adafruit-io/wiring#battery-tracking)
+
+![wiring_diagram](https://github.com/masubi/DoorLock/blob/master/images/wiring_diagram.png)
 
 ## Service Integration
 * adafruit.io
