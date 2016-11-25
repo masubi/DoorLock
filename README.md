@@ -24,6 +24,18 @@ but with some significant updates:
 * Magnetic door sensor
 * Lipoly battery
 
+### Wiring
+* Pin 16 to RST (this lets us use the low power mode)
+* Pin 13 to one side of door sensor
+* GND to opposite side of door sensor
+* VBat to the battery +
+* GND to battery -
+* GND to one side of the 220kΩ resistor
+* VBat to one side of the 1MΩ resistor
+* Pin A to the opposite side of  the 1MΩ resistor and 220kΩ resistor
+[diagram src]  (https://learn.adafruit.com/using-ifttt-with-adafruit-io/wiring#battery-tracking)
+![wiring_diagram](images/wiring_diagram.png")
+
 ## Service Integration
 * adafruit.io
 * IFTTT and corresponding smartphone
