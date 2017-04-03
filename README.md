@@ -9,7 +9,7 @@ Based heavily on source code from below references.
 As an added bonus it also can detect if the battery runs low and also send a
 corresponding alert.  
 
-* video demo:  ![video demo](images/SnackDefender.mp4)
+* video demo:  images/SnackDefender.mp4
 
 ## Differences from adafruit docs
 This project is based heavily on the adafruit docs shown in references section
@@ -36,7 +36,7 @@ but with some significant updates:
 * GND to one side of the 220kΩ resistor
 * VBat to one side of the 1MΩ resistor
 * Pin A to the opposite side of  the 1MΩ resistor and 220kΩ resistor
-* wiring example:  ![wiring_diagram](images/wiring_diagram.png)
+* wiring example:  ![wiring_diagram](https://github.com/masubi/DoorLock/blob/master/images/wiring_diagram.png)
 * [diagram src](https://learn.adafruit.com/using-ifttt-with-adafruit-io/wiring#battery-tracking)
 
 ## Service Integration
